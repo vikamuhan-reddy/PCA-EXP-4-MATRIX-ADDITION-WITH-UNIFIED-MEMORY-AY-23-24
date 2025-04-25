@@ -1,5 +1,5 @@
 # PCA-EXP-4-MATRIX-ADDITION-WITH-UNIFIED-MEMORY AY 23-24
-<h3>AIM:</h3>
+
 <h3>ENTER YOUR NAME : Vikamuhan reddy</h3>
 <h3>ENTER YOUR REGISTER NO :  212223240181</h3>
 <h3>EX. NO 4</h3>
@@ -517,7 +517,9 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
-SHOW YOUR OUTPUT HERE
+![WhatsApp Image 2025-04-25 at 17 19 19_6dad7716](https://github.com/user-attachments/assets/ead167f1-736f-49d4-8926-5e9ba06e6d90)
+![WhatsApp Image 2025-04-25 at 17 19 51_da61fa6e](https://github.com/user-attachments/assets/2ae2ca1e-4310-4552-89d6-9e35c5bc8c83)
+
 
 ## RESULT:
-Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more_______________time.
+Thus the program has been executed by using unified memory. It is observed that removing memset function has given less/more .00000001 time.
